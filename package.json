@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.14.2",
+    "mongoose": "^8.12.1",
+    "nodemon": "^3.1.9"
+  },
+  "name": "mongodb_project",
+  "version": "1.0.0",
+  "description": "This project is an activity to deepen my knowledgeof databases with node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soultakpara/mongoDB_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soultakpara/mongoDB_project/issues"
+  },
+  "homepage": "https://github.com/soultakpara/mongoDB_project#readme"
+}
